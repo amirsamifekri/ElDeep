@@ -1,0 +1,14 @@
+section {
+  background-color: rgba(186, 226, 246, 0.3);
+  .innerDiv {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    p {
+      line-height: 1.6;
+      font-size: 18px;
+    }
+  }
+}
